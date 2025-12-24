@@ -1,10 +1,11 @@
 {
-  "My_App": [
+  "ModsLabs_update": [
     {
-      "version": "1.5.4",
-      "title": "Photo & Picture Resizer\nVersion: 1.0.371",
-      "description": "New update is available, to continue in our app please update it.\n\nWhat's new:\n  - Performance Improvements.\n  - Bug Fixes.\n  - New Features introduced.\n  - Other minor changes.\n\nThanks for using",
-      "download_link": "https://t.me/+LgHNnGUIs84wNDdl"
+      "version": "1.0.2",
+      "title": "New Update Available!",
+      "description": "Bug fixes and performance improvements.",
+      "download_link": "https://t.me/+LgHNnGUIs84wNDdl",
+      "cancelable": false
     }
   ]
 }
