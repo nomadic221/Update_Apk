@@ -2,10 +2,10 @@
   "com.update": {
     "latestVersionCode": 14701731,
     "latestVersion": "14.7.0",
-    "url": "https://play.google.com/store/apps/details?id=com.example.app1",
-    "forceUpdate": true,
+    "url": "https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer",
+    "forceUpdate": false,
     "style": 3,
-    "dateSystem": true,
+    "dateSystem": false,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
@@ -18,13 +18,13 @@
       "imageHeight": 160
     }
   },
-  "com.imaginstudio.imagetools.pixellab": {
+  "com.simplemobilephotoresizer": {
     "latestVersionCode": 10,
     "latestVersion": "1.2.0",
-    "url": "https://play.google.com/store/apps/details?id=com.example.app2",
-    "forceUpdate": true,
+    "url": "https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer",
+    "forceUpdate": false,
     "style": 3,
-    "dateSystem": true,
+    "dateSystem": false,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
