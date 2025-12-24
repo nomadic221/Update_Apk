@@ -2,8 +2,16 @@
   "My_App": [
     {
       "version": "1.5.4",
-      "title": "New Update Available",
-      "description": "This is the latest update with several improvements and bug fixes.",
+      "title": "Photo & Picture Resizer\n Verstion: 1.0.371",
+      "description": "New update is available, to continue in our app please update it.
+
+What's new:
+- Performance Improvements.
+- Bug Fixes.
+- New Features introduced.
+- Others minor changes.
+
+Thanks for using",
       "download_link": "https://t.me/modslabs"
     }
   ]
