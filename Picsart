@@ -1,11 +1,10 @@
 {
   "ModsLabs_update": [
     {
-      "version": "1.0.2",
-      "title": "New Update Available!",
-      "description": "Bug fixes and performance improvements.",
-      "download_link": "https://t.me/+LgHNnGUIs84wNDdl",
-      "cancelable": "false"
+      "version": "1.5.4",
+      "title": "New Update Available",
+      "description": "This is the latest update with several improvements and bug fixes.",
+      "download_link": "https://t.me/modslabs"
     }
   ]
 }
