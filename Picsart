@@ -1,9 +1,40 @@
 {
-    "Title": "Update Available\n 🔹Photo & Picture Resizer",
-    "versionCode": "10",
-    "versionName": "29.0.5",
-    "updateSize": "20 MB",
-    "releaseDate": "Dec 15, 2025",
-    "Msg": "🎉 What's New:\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
-    "downloadLink": "https://t.me/+LgHNnGUIs84wNDdl"
+  "com.update": {
+    "latestVersionCode": 14701731,
+    "latestVersion": "14.7.0",
+    "url": "https://play.google.com/store/apps/details?id=com.example.app1",
+    "forceUpdate": true,
+    "style": 3,
+    "dateSystem": true,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  },
+  "com.imaginstudio.imagetools.pixellab": {
+    "latestVersionCode": 10,
+    "latestVersion": "1.2.0",
+    "url": "https://play.google.com/store/apps/details?id=com.example.app2",
+    "forceUpdate": true,
+    "style": 3,
+    "dateSystem": true,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  }
 }
