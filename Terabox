@@ -1,0 +1,9 @@
+{
+  "status": true,
+  "new_version": "2.1.5",
+  "dialog_data": {
+    "title": "Update Terabox",
+    "download_link": "https://play.google.com/store/apps/details?id=com.whatsapp",
+    "whats_new": "Brand new interface design\nEnd-to-end encryption update\nFaster media sharing\nBug fixes and stability"
+  }
+}
