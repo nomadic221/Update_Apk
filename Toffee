@@ -1,8 +1,8 @@
 {
   "status": true,
-  "new_version": "2.1.5",
+  "new_version": "8.10.1",
   "dialog_data": {
-    "title": "Update WhatsApp",
+    "title": "Update Toffee",
     "download_link": "https://play.google.com/store/apps/details?id=com.whatsapp",
     "whats_new": "Brand new interface design\nEnd-to-end encryption update\nFaster media sharing\nBug fixes and stability"
   }
