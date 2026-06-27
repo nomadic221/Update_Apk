@@ -1,9 +1,9 @@
 {
   "status": true,
-  "new_version": "2.1.5",
+  "new_version": "12.1.5",
   "dialog_data": {
-    "title": "Update WhatsApp",
-    "download_link": "https://play.google.com/store/apps/details?id=com.whatsapp",
-    "whats_new": "Brand new interface design\nEnd-to-end encryption update\nFaster media sharing\nBug fixes and stability"
+    "title": "Update Lightroom",
+    "download_link": "https://t.me/ModzBro",
+    "whats_new": "Get clear skin with new manual skin retouching tools, now in one view within Retouch\nExports and selective edits are up to 35% faster than before\nNew camera & lens support (https://adobe.com/go/cameras)\nBug fixes and stability improvements"
   }
 }
