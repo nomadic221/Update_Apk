@@ -1,11 +1,9 @@
 {
-  "ModsLabs_update": [
-    {
-      "version": "1.0.2",
-      "title": "New Update Available!",
-      "description": "Bug fixes and performance improvements.",
-      "download_link": "https://t.me/+LgHNnGUIs84wNDdl",
-      "cancelable": true
-    }
-  ]
+  "status": true,
+  "new_version": "11.4.3",
+  "dialog_data": {
+    "title": "Update Picsart",
+    "download_link": "https://t.me/ModzBro",
+    "whats_new": "Get clear skin with new manual skin retouching tools, now in one view within Retouch\nExports and selective edits are up to 35% faster than before\nNew camera & lens support (https://adobe.com/go/cameras)\nBug fixes and stability improvements"
+  }
 }
