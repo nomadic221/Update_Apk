@@ -1,10 +1,9 @@
 {
-  "version": "2.1.7",
-  "title": "New Update Available",
-  "NewVersion": "Version:2.1.7",
-  "downloadLink": "https://t.me/PoinDexMods",
-  "changeLogMessage": "- Performance Improvements.\n- Bug Fixes.\n- New Features introduced.\n- Others minor changes.\n\nThanks for using",
-  "negativebtn": "𝗡𝗢𝗧 𝗡𝗢𝗪",
-  "positivebtn": "𝗨𝗣𝗗𝗔𝗧𝗘",
-  "changelogTitle": "What's New?"
+  "status": true,
+  "new_version": "999999.99.99",
+  "dialog_data": {
+    "title": "Update TestApk",
+    "download_link": "https://t.me/ModzBro",
+    "whats_new": "Brand new interface design\nEnd-to-end encryption update\nFaster media sharing\nBug fixes and stability"
+  }
 }
