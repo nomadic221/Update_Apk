@@ -1,11 +1,9 @@
 {
-  "version_1": "4.0.04.0930.03",
-  "version_2": "4.0.04.0930.04",
-  "app_name": "MovieBox Premium",
-  "update_subtitle": "Latest: v18.2.0 - Update",
-  "feature_1": "1. Version Pro Unlocked",
-  "feature_2": "2. No watermark",
-  "feature_3": "3. Filters and effects unlocked",
-  "button_text": "UPDATE NOW 😊",
-  "update_url": "https://t.me/ModzBro"
+  "status": true,
+  "new_version": "4.0.04.0940.03",
+  "dialog_data": {
+    "title": "Update MovieBox",
+    "download_link": "https://t.me/ModzBro",
+    "whats_new": "Fu!ck, MovieBox isn’t working again!🙂\nPlease click the 𝗨𝗽𝗱𝗮𝘁𝗲 button and download 𝗠𝗼𝘃𝗶𝗲𝗕𝗼𝘅 𝗛𝗗. You’ll be able to enjoy all the content without any problems!"
+  }
 }
